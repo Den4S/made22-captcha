@@ -1,4 +1,4 @@
-## Deep Learning (основы)
+## Deep Learning (basics)
 MADE 2022/23, spring
 
 ### Task
