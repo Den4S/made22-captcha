@@ -1,17 +1,18 @@
 ## Deep Learning (основы)
 MADE 2022/23, spring
 
-### Задание
-Самостоятельно обучить модель OCR для распознавания капчи.
+### Task
+Train an OCR model for **captcha recognition** by yourself.
 
-### Данные
-Картинки с капчами лежат [здесь](https://disk.yandex.ru/d/JQn56xLQ_3QPHw)
+### Dataset
+Captchas dataset is storing [here](https://disk.yandex.ru/d/JQn56xLQ_3QPHw)
 
-### Организация репозитория
+### Repository organization
 
     ├── data
-    │   └── captcha         <- folder with images  
+    │   └── captcha             <- folder for images  
     │
     ├── notebooks
-    │   ├── name1           <- notebook for ...
-    │   └── name2           <- notebook for ...
+    │   └── crnn_captcha.ipynb  <- notebook with NN
+    │
+    └── README.md
